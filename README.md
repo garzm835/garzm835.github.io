@@ -1,2 +1,2 @@
-# garzm835.github.io
+Lucia Garza
 Class site
