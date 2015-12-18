@@ -1,0 +1,43 @@
+.learn-more {
+  color: #5a5a5a;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 120px 350px;
+  color: #5a5a5a;
+  font-size: 20px;
+  padding: 30px 200px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+
+  font-family: “Helvetica Neue”, Helvetica, Arial, sans-serif;
+}
+
+.nav li {
+  display: inline;
+}
+.head {
+  /*color: #fff;
+  font-size: 48px;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;*/
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  color: grey;
+}
+.but {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  color: black;
+    padding: 30px 100px;
+}
+.a href {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 70px;
+  color: black;
+}
+
+.icons {
+  height: 65px;
+  width: 65px;
+  float:left;
+  }
